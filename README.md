@@ -12,6 +12,7 @@ Typora_Unlocker 支持的版本：| 1.0.0 - 1.8.9 |
 密码：1234
 
 ---
+
 打开蓝奏云网盘，输入密码：1234 点确认。
 ![](https://raw.github.ink/wlc743859910/Typora_Unlocker/master/img/Typora_0.webp)
 

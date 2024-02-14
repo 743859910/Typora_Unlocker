@@ -31,7 +31,7 @@ Typora_Unlocker 支持的版本：| 1.0.0 - 1.8.9 |
 在 Typora 安装目录的地址栏输入 cmd 后，按 Enter键
 ![](https://raw.github.ink/wlc743859910/Typora_Unlocker/master/img/Typora_5.webp)
 
-输入 node_inject.exe 按 Enter键即可自动处理，然后输入 license-gen.exe 回车即可得到序列号。
+输入 node_inject.exe 按 Enter键 即可自动处理，然后输入 license-gen.exe 按 Enter键 即可得到序列号。
 ![](https://raw.github.ink/wlc743859910/Typora_Unlocker/master/img/Typora_6.webp)
 
 鼠标移动至序列号上双击鼠标左键，然后同时按住 Ctrl+Shift+C 键即可复制序列号。

@@ -6,7 +6,7 @@ Typora 官网：https://typora.io/
 
 Typora 中国官网：https://typoraio.cn/
 
-wlc743859910/Typora_Unlocker 支持的版本：| 1.0.0 - 1.8.10 | 
+Typora_Unlocker 支持的版本：| 1.0.0 - 1.8.10 | 
 
 蓝奏云：https://www.lanzouy.com/b00rnjxib
 密码：1234

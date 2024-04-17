@@ -13,7 +13,9 @@ Typora 中国官网：https://typoraio.cn/
 Typora_Unlocker 支持的版本：| 1.0.0 - 1.8.10 | 
 
 蓝奏云：https://www.lanzouy.com/b00rnjxib
+
 如链接打不开，可将lanzouy中的y用26个英文字母中的任一一个替换即可。
+
 密码：1234
 
 ---

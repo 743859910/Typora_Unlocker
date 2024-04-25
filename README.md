@@ -81,30 +81,16 @@ Typora_Unlocker 支持的版本：| 1.0.0 - 1.8.10 |
 
 ---
 
-<table>
-    <tr>
-        <td >
 昵称：我只是你的过客
 
 个性签名：每个人都是每个人的过客
 
 国籍：中华人民共和国 / 现居：中国湖北省武汉市
-        </center>
-        </td>
-    </tr>
-</table>
 
 ---
 
-<table>
-    <tr>
-        <td >
 MIT License
 
 Copyright © 2008-2024 Powered by wlc743859910. Inc. All Rights Reserved. 我只是你的过客工作室. 版权所有
-        </center>
-        </td>
-    </tr>
-</table>
 
 ---

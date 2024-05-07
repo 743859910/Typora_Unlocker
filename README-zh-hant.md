@@ -55,6 +55,10 @@ Typora_Unlocker 支持的版本：| 1.0.0 - 1.8.10 |
 
 ---
 
+## 如果您觉得本工具对您有帮助，不妨在右上角点亮一颗小星星，以示鼓励！
+
+---
+
 <p align="center">
   <img src="https://raw.gitmirror.com/743859910/Typora_Unlocker/blob/master/img/1.webp">
 </p>

@@ -2,7 +2,20 @@
 
 ---
 
- | **English** | [简体中文](./README-zh-hans.md) | [繁體中文](./README-zh-hant.md) | 
+<p align="center"><a href=""><img src="https://typoraio.cn/img/favicon-128.png" alt="logo" width="300" /></a></p>
+<p align="center"><b>Typora_Unlocker</b></p>
+<p align="center"><b>一款 Markdown 编辑器和阅读器</b></p>
+<p align="center">
+<a href="https://github.com/743859910/Typora_Unlocker/stars"><img src="https://img.shields.io/github/stars/743859910/Typora_Unlocker?color=yellow"></a>
+<a href="https://github.com/743859910/Typora_Unlocker/forks"><img src="https://img.shields.io/github/forks/743859910/Typora_Unlocker?color=Yellow"></a>
+<a href="https://github.com/743859910/Typora_Unlocker/issues"><img src="https://img.shields.io/github/issues/743859910/Typora_Unlocker?color=Yellow"></a>
+<a href="https://github.com/743859910/Typora_Unlocker/languages/code-size"><img src="https://img.shields.io/github/languages/code-size/743859910/Typora_Unlocker?color=Yellow"></a>
+<a href="https://github.com/743859910/Typora_Unlocker/license"><img src="https://img.shields.io/github/license/743859910/Typora_Unlocker?color=Yellow"></a>
+<a href="https://github.com/743859910/Typora_Unlocker/releases"><img src="https://img.shields.io/github/release/743859910/Typora_Unlocker?color=Yellow"></a>
+<a href="https://github.com/743859910/Typora_Unlocker/discussions"><img src="https://img.shields.io/github/discussions/743859910/Typora_Unlocker?color=Yellow"></a>
+<a href="https://github.com/743859910/Typora_Unlocker/watchers"><img src="https://img.shields.io/github/watchers/743859910/Typora_Unlocker?color=Yellow"></a>
+<a href="https://github.com/743859910/followers"><img src="https://img.shields.io/github/followers/743859910?color=Yellow"></a><br>
+</p>
 
 ---
 

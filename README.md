@@ -3,7 +3,7 @@
 ---
 
 <p align="center"><a href=""><img src="https://typoraio.cn/img/favicon-128.png" alt="logo" width="300" /></a></p>
-<p align="center"><b>Typora_Unlocker</b></p>
+<p align="center"><b>Typora</b></p>
 <p align="center"><b>一款 Markdown 编辑器和阅读器</b></p>
 <p align="center">
 <a href="https://github.com/743859910/Typora_Unlocker/stars"><img src="https://img.shields.io/github/stars/743859910/Typora_Unlocker?color=yellow"></a>

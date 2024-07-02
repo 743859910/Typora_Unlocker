@@ -23,7 +23,7 @@ Typora 官网：https://typora.io/
 
 Typora 中国官网：https://typoraio.cn/
 
-Typora_Unlocker 支持的版本：| 1.0.0 - 1.9.4 | 
+Typora_Unlocker 支持的版本：| 1.0.0 - 1.9.5 | 
 
 蓝奏云：https://www.lanzouy.com/b00rnjxib
 
@@ -35,7 +35,7 @@ Typora_Unlocker 支持的版本：| 1.0.0 - 1.9.4 |
 
 # 这里温馨提醒一下：
 
-### 1.8.10升级1.9.4需要先卸载1.8.10版本后，重新安装1.9.4版本才可以进行后续激活步骤。
+### 1.9.4升级1.9.5需要先卸载1.9.4版本后，重新安装1.9.5版本才可以进行后续激活步骤。
 
 ---
 
